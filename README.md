@@ -3,7 +3,7 @@
 
 ![MacOS Ventura 13.1](background.png)
 
-##About Notebook
+## About Notebook
 
 | NAME |        VALUE           |
 |-----|-------------------------|
