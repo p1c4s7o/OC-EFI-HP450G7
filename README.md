@@ -1,0 +1,2 @@
+# OC-EFI-HP450G7
+ EFI 0.90 - MacOS 13.1 - HP 450 G7
