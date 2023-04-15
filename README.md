@@ -1,6 +1,6 @@
 # OC-EFI-HP450G7
 
-OpenCore for HP 450 G7 (EFI 0.9.0, MacOS 13.1 )
+OpenCore for HP 450 G7 (OC 0.9.0 RELEASE, MacOS 13.1 )
 
 ![MacOS Ventura 13.1](background.png)
 
