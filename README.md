@@ -22,7 +22,6 @@
 - GPU full acceleration
 - all USB-Ports
 - Trackpad/Clickpad with all gestures
-- native sound-keys
 - Battery
 - Sleep
 - HDMI and 4k. Also USB-C to HDMI with 4k
@@ -35,6 +34,7 @@
 ### No testing
 
 - native brightness-keys (only if you boot directly in MacOS after PowerOn or Hardware-EC-Reset). Otherwise fn+w is brighter and fn+c is darker
+- native sound-keys
 - AirPlay
 
 ### Dont work
